@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/voice-assisted-news-react-app/static/css/main.24aeb111.chunk.css",
-    "main.js": "/voice-assisted-news-react-app/static/js/main.086c128b.chunk.js",
-    "main.js.map": "/voice-assisted-news-react-app/static/js/main.086c128b.chunk.js.map",
+    "main.js": "/voice-assisted-news-react-app/static/js/main.b466ea78.chunk.js",
+    "main.js.map": "/voice-assisted-news-react-app/static/js/main.b466ea78.chunk.js.map",
     "runtime-main.js": "/voice-assisted-news-react-app/static/js/runtime-main.8b02ce59.js",
     "runtime-main.js.map": "/voice-assisted-news-react-app/static/js/runtime-main.8b02ce59.js.map",
-    "static/js/2.db5817bf.chunk.js": "/voice-assisted-news-react-app/static/js/2.db5817bf.chunk.js",
-    "static/js/2.db5817bf.chunk.js.map": "/voice-assisted-news-react-app/static/js/2.db5817bf.chunk.js.map",
+    "static/js/2.f8ea98fb.chunk.js": "/voice-assisted-news-react-app/static/js/2.f8ea98fb.chunk.js",
+    "static/js/2.f8ea98fb.chunk.js.map": "/voice-assisted-news-react-app/static/js/2.f8ea98fb.chunk.js.map",
     "index.html": "/voice-assisted-news-react-app/index.html",
     "static/css/main.24aeb111.chunk.css.map": "/voice-assisted-news-react-app/static/css/main.24aeb111.chunk.css.map",
-    "static/js/2.db5817bf.chunk.js.LICENSE.txt": "/voice-assisted-news-react-app/static/js/2.db5817bf.chunk.js.LICENSE.txt"
+    "static/js/2.f8ea98fb.chunk.js.LICENSE.txt": "/voice-assisted-news-react-app/static/js/2.f8ea98fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b02ce59.js",
-    "static/js/2.db5817bf.chunk.js",
+    "static/js/2.f8ea98fb.chunk.js",
     "static/css/main.24aeb111.chunk.css",
-    "static/js/main.086c128b.chunk.js"
+    "static/js/main.b466ea78.chunk.js"
   ]
 }
